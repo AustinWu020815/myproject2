@@ -1,6 +1,6 @@
 package com.austin;
 
-public class scoring {
+public class Scoring {
     public static void main(String[] args) {
         String[] names = {"Andy", "Lisa", "Emily", "Scott"};
         int[] mend = {85, 47, 98, 64};
