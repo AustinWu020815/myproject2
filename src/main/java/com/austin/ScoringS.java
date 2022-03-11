@@ -6,5 +6,8 @@ public class ScoringS {
         derek.name = "Derek";
         derek.english = 100;
         derek.math = 55;
+        Student hugh = new Student("Hugh", 87, 69);
+        derek.print();
+        hugh.print();
     }
 }
