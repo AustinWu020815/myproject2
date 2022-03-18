@@ -1,10 +1,18 @@
-com/austin/Scoring.java
- com.austin.Scoring
-com/austin/Hello.java
- com.austin.Hello
-com/austin/Student.java
- com.austin.Student
 com/austin/GraduateStudent.java
  com.austin.GraduateStudent
+com/austin/Scoring.java
+ com.austin.Scoring
 com/austin/ScoringS.java
  com.austin.ScoringS
+com/austin/Shop.java
+ com.austin.Shop
+com/austin/VIPs.java
+ com.austin.VIPs
+com/austin/Hello.java
+ com.austin.Hello
+com/austin/VIPc.java
+ com.austin.VIPc
+com/austin/Student.java
+ com.austin.Student
+com/austin/VIPg.java
+ com.austin.VIPg
