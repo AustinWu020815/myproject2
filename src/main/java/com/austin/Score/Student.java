@@ -1,4 +1,4 @@
-package com.austin;
+package com.austin.Score;
 
 public class Student {
         String name;

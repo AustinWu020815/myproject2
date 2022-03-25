@@ -1,6 +1,6 @@
-package com.austin;
+package com.austin.Score;
 
-public class GraduateStudent extends Student{
+public class GraduateStudent extends Student {
     int thesis;
     public GraduateStudent(String name, int english, int math){
         super(name, english, math);

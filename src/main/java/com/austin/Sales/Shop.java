@@ -1,4 +1,4 @@
-package com.austin;
+package com.austin.Sales;
 
 public class Shop {
     public static void main(String[] args) {

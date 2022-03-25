@@ -1,4 +1,4 @@
-package com.austin;
+package com.austin.Sales;
 
 public class VIPc {
     String stage;
