@@ -8,7 +8,7 @@ public class Ticket {
     int start;
     int destination;
     int price;
-    public Ticket(){
+    public Ticket(Station taipeiStation, Station kaohsiungStation){
         this.start = start;
         this.destination = destination;
     }
