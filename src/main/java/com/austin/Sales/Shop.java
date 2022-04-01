@@ -1,11 +1,15 @@
 package com.austin.Sales;
 
+import java.util.List;
+
 public class Shop {
     public static void main(String[] args) {
-        VIPc comm = new VIPc();
+ /*     VIPc comm = new VIPc();
         VIPs silv = new VIPs();
         VIPg gold = new VIPg();
         VIPp plat = new VIPp();
+
+
         System.out.println("Stage" + "\t" + "Pay" + "\t\t" + "Welfare" + "\t" + "Coopon");
         comm.print();
         System.out.println();
@@ -15,5 +19,7 @@ public class Shop {
         System.out.println("\n");
         System.out.println("Stage" + "\t\t" + "Pay" + "\t\t" + "Price" + "\t" + "Point");
         plat.print();
+
+  */
     }
 }
