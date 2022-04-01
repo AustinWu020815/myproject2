@@ -1,7 +1,5 @@
 package com.austin.Sales;
 
-import java.util.List;
-
 public class Shop {
     public static void main(String[] args) {
  /*     VIPc comm = new VIPc();
