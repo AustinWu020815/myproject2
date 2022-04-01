@@ -30,7 +30,6 @@ public class Ticket {
                 price = 900;
             }
         }
-
     }
     public void print(){
         System.out.println(start.station + "\t" + destination.station + "\t" + price);
