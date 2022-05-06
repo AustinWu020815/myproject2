@@ -40,8 +40,8 @@ public class Tester {
                 break;
         }
         System.out.println("Which Ticket does you prefer? (1.Normal 2.Students 3.Elders)");
-        Ticket ticket = null;
         choice = Integer.parseInt(scanner.next());
+        Ticket ticket = new Ticket(start, destination);
         switch (choice){
             case 1:
                 ticket = new Ticket(start, destination);

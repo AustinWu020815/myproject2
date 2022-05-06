@@ -6,22 +6,22 @@ com/austin/saless/GoldenCustomer.java
  com.austin.saless.GoldenCustomer
 com/austin/Sales/VIPc.java
  com.austin.Sales.VIPc
-com/austin/Sales/MyInterface.java
- com.austin.Sales.MyInterface
+com/austin/ticket/Ticket.java
+ com.austin.ticket.Ticket
 com/austin/saless/Customers.java
  com.austin.saless.Customers
 com/austin/saless/SalesTester.java
  com.austin.saless.SalesTester
 com/austin/saless/SilverCustomer.java
  com.austin.saless.SilverCustomer
-com/austin/Hello.java
- com.austin.Hello
+com/austin/ticket/Tester.java
+ com.austin.ticket.Tester
 com/austin/Sales/Shop.java
  com.austin.Sales.Shop
 com/austin/Sales/VIPg.java
  com.austin.Sales.VIPg
-com/austin/Score/GraduateStudent.java
- com.austin.Score.GraduateStudent
+com/austin/ticket/EldersTicket.java
+ com.austin.ticket.EldersTicket
 com/austin/Score/Student.java
  com.austin.Score.Student
 com/austin/Score/Scoring.java
@@ -40,15 +40,15 @@ com/austin/ShopTest/ShoppingTester.java
  com.austin.ShopTest.ShoppingTester
 com/austin/ShopTest/BuyOneGetOneShopItem.java
  com.austin.ShopTest.BuyOneGetOneShopItem
-com/austin/Score/Printable.java
- com.austin.Score.Printable
-com/austin/ticket/Ticket.java
- com.austin.ticket.Ticket
 com/austin/ticket/Station.java
  com.austin.ticket.Station
-com/austin/ticket/EldersTicket.java
- com.austin.ticket.EldersTicket
+com/austin/Sales/MyInterface.java
+ com.austin.Sales.MyInterface
+com/austin/Score/Printable.java
+ com.austin.Score.Printable
+com/austin/Hello.java
+ com.austin.Hello
+com/austin/Score/GraduateStudent.java
+ com.austin.Score.GraduateStudent
 com/austin/ticket/StudentTicket.java
  com.austin.ticket.StudentTicket
-com/austin/ticket/Tester.java
- com.austin.ticket.Tester

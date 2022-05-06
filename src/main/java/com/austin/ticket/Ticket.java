@@ -8,7 +8,7 @@ public class Ticket {
     Station start;
     Station destination;
     int price;
-    public Ticket(Station taipeiStation, Station kaohsiungStation){
+    public Ticket(Station start, Station destination){
         this.start = start;
         this.destination = destination;
         if (start == Station.TAIPEI_STATION){
