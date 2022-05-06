@@ -11,6 +11,6 @@ public class Station {
     String station;
     public Station(int ID, String station){
         this.ID =ID;
-        this.station =station;
+        this.station = station;
     }
 }
