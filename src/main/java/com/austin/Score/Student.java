@@ -1,6 +1,6 @@
 package com.austin.Score;
 
-public class Student {
+public class Student implements Printable{
         String name;
         int english;
         int math;
@@ -22,9 +22,25 @@ public class Student {
                 math = -1;
                 */
         }
+        @Override
         public void print(){
-                System.out.print(name + "\t" + english + "\t" + math);
-
+                System.out.print(name + "\t" + english + "\t" + math + "\t" + getAverage());
+                if (getAverage() < 60){
+                        System.out.println("*");
+                }
+                System.out.println();
         }
-
+        /*
+        public void print(){
+        System.out.println(name + "\t" + english + "\t" + math + "\t" + getAverage() + "\t" + thesis);
+        if (getAverage() < 60){
+            System.out.println("*");
+        }else{
+            System.out.println("!");
+        }
+        }
+         */
+    public int getAverage() {
+            return (english + math) / 2;
+    }
 }
