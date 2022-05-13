@@ -36,6 +36,8 @@ com/austin/saless/DiscountCustomers.java
  com.austin.saless.DiscountCustomers
 com/austin/Sales/VIPp.java
  com.austin.Sales.VIPp
+com/austin/parking/Runner.java
+ com.austin.parking.Runner
 com/austin/ShopTest/ShoppingTester.java
  com.austin.ShopTest.ShoppingTester
 com/austin/ShopTest/BuyOneGetOneShopItem.java
@@ -52,7 +54,3 @@ com/austin/Score/GraduateStudent.java
  com.austin.Score.GraduateStudent
 com/austin/ticket/StudentTicket.java
  com.austin.ticket.StudentTicket
-com/austin/parking/Fee.java
- com.austin.parking.Fee
-com/austin/parking/Runner.java
- com.austin.parking.Runner
