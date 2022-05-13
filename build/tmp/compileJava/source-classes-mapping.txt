@@ -52,3 +52,7 @@ com/austin/Score/GraduateStudent.java
  com.austin.Score.GraduateStudent
 com/austin/ticket/StudentTicket.java
  com.austin.ticket.StudentTicket
+com/austin/parking/Fee.java
+ com.austin.parking.Fee
+com/austin/parking/Runner.java
+ com.austin.parking.Runner
