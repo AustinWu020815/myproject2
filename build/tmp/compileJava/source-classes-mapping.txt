@@ -54,3 +54,8 @@ com/austin/Score/GraduateStudent.java
  com.austin.Score.GraduateStudent
 com/austin/ticket/StudentTicket.java
  com.austin.ticket.StudentTicket
+com/austin/ui/MyActionListener.java
+ com.austin.ui.MyActionListener
+com/austin/ui/MyWin.java
+ com.austin.ui.MyWin
+ com.austin.ui.MyWin$1
