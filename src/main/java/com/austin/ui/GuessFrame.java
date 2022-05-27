@@ -6,8 +6,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class GuessFrame extends JFrame {
-    JButton button  = new JButton("Hallo!");
-    JLabel label = new JLabel("WoW");
+    JButton button  = new JButton("Guess What!");
+    JLabel label = new JLabel("WoW ... No");
     JTextField number = new JTextField(7);
     public GuessFrame(){
         super();
