@@ -4,11 +4,14 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Random;
 
 public class GuessFrame extends JFrame {
     JButton button  = new JButton("Guess What!");
     JLabel label = new JLabel("WoW ... No");
     JTextField number = new JTextField(7);
+    Random random = new Random((10)+1);
+    int secret =
     public GuessFrame(){
         super();
         setSize(300,200);

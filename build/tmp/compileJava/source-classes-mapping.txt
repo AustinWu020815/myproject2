@@ -49,9 +49,8 @@ com/austin/ShopTest/ShoppingTester.java
  com.austin.ShopTest.ShoppingTester
 com/austin/ShopTest/BuyOneGetOneShopItem.java
  com.austin.ShopTest.BuyOneGetOneShopItem
-com/austin/ui/GuessFrame.java
- com.austin.ui.GuessFrame
- com.austin.ui.GuessFrame$1
+com/austin/ticket/StudentTicket.java
+ com.austin.ticket.StudentTicket
 com/austin/ticket/Station.java
  com.austin.ticket.Station
 com/austin/Sales/MyInterface.java
@@ -62,5 +61,6 @@ com/austin/Hello.java
  com.austin.Hello
 com/austin/Score/GraduateStudent.java
  com.austin.Score.GraduateStudent
-com/austin/ticket/StudentTicket.java
- com.austin.ticket.StudentTicket
+com/austin/ui/GuessFrame.java
+ com.austin.ui.GuessFrame
+ com.austin.ui.GuessFrame$1
