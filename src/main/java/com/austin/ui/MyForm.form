@@ -34,7 +34,7 @@
         <properties/>
         <border type="none"/>
         <children>
-          <component id="fdede" class="javax.swing.JCheckBox" binding="酥炸卡滋豬排飯CheckBox" default-binding="true">
+          <component id="fdede" class="javax.swing.JCheckBox" binding="CheckBox1">
             <constraints>
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
@@ -42,7 +42,7 @@
               <text value="酥炸卡滋豬排飯"/>
             </properties>
           </component>
-          <component id="2ff27" class="javax.swing.JCheckBox" binding="KIRAKIRA丼CheckBox" default-binding="true">
+          <component id="2ff27" class="javax.swing.JCheckBox" binding="CheckBox2">
             <constraints>
               <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
@@ -50,7 +50,7 @@
               <text value="KIRAKIRA丼"/>
             </properties>
           </component>
-          <component id="242b1" class="javax.swing.JCheckBox" binding="日式咖哩蛋包飯CheckBox" default-binding="true">
+          <component id="242b1" class="javax.swing.JCheckBox" binding="CheckBox3">
             <constraints>
               <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
@@ -68,7 +68,7 @@
         <properties/>
         <border type="none"/>
         <children>
-          <component id="efa8b" class="javax.swing.JTextField" binding="歡迎光臨二埒日式料理TextField" default-binding="true">
+          <component id="efa8b" class="javax.swing.JTextField" binding="TextField1">
             <constraints>
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
                 <preferred-size width="150" height="-1"/>

@@ -7,10 +7,10 @@ public class MyForm {
     private JPanel panel1;
     private JButton clickHereButton;
     private JButton helpButton;
-    private JTextField 歡迎光臨二埒日式料理TextField;
-    private JCheckBox 酥炸卡滋豬排飯CheckBox;
-    private JCheckBox KIRAKIRA丼CheckBox;
-    private JCheckBox 日式咖哩蛋包飯CheckBox;
+    private JTextField TextField1;
+    private JCheckBox CheckBox1;
+    private JCheckBox CheckBox2;
+    private JCheckBox CheckBox3;
 
     private void createUIComponents() {
         // TODO: place custom component creation code here
