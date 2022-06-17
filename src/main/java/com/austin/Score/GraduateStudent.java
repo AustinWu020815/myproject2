@@ -6,15 +6,11 @@ public class GraduateStudent extends Student {
         super(name, english, math);
         this.thesis = thesis;
     }
-    public void print(){
-        System.out.println(name + "\t" + english + "\t" + math + "\t" + getAverage() + "\t" + thesis);
-        if (getAverage() < 60){
-            System.out.println("*");
-        }else{
-            System.out.println("!");
-        }
-    }
-    public int getAverage(){
-        return (english + math)/2;
+
+    @Override
+    public void print() {
+        System.out.println(name + "\t" + english + "\t" +
+                math + "\t" + getAverage() +
+                "\t" + thesis);
     }
 }

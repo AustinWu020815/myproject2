@@ -1,7 +1,32 @@
+com/austin/ui/MyWin.java
+ com.austin.ui.MyWin
+ com.austin.ui.MyWin$1
+com/austin/Sales/MyClass.java
+ com.austin.Sales.MyClass
+com/austin/Score/ScoringNG.java
+ com.austin.Score.ScoringNG
+com/austin/ui/MyForm.java
+ com.austin.ui.MyForm
+com/austin/saless/GoldenCustomer.java
+ com.austin.saless.GoldenCustomer
+com/austin/Sales/VIPc.java
+ com.austin.Sales.VIPc
+com/austin/ticket/Ticket.java
+ com.austin.ticket.Ticket
+com/austin/saless/Customers.java
+ com.austin.saless.Customers
+com/austin/saless/SalesTester.java
+ com.austin.saless.SalesTester
+com/austin/saless/SilverCustomer.java
+ com.austin.saless.SilverCustomer
+com/austin/ticket/Tester.java
+ com.austin.ticket.Tester
 com/austin/Sales/Shop.java
  com.austin.Sales.Shop
 com/austin/Sales/VIPg.java
  com.austin.Sales.VIPg
+com/austin/ticket/EldersTicket.java
+ com.austin.ticket.EldersTicket
 com/austin/Score/Student.java
  com.austin.Score.Student
 com/austin/Score/Scoring.java
@@ -12,21 +37,49 @@ com/austin/ShopTest/SalesShopItem.java
  com.austin.ShopTest.SalesShopItem
 com/austin/Sales/VIPs.java
  com.austin.Sales.VIPs
+<<<<<<< HEAD
 com/austin/Sales/VIPc.java
  com.austin.Sales.VIPc
 com/austin/ticket/Ticket.java
  com.austin.ticket.Ticket
 com/austin/Score/ScoringS.java
  com.austin.Score.ScoringS
+=======
+com/austin/saless/DiscountCustomers.java
+ com.austin.saless.DiscountCustomers
+com/austin/ui/MyActionListener.java
+ com.austin.ui.MyActionListener
+com/austin/Sales/VIPp.java
+ com.austin.Sales.VIPp
+com/austin/parking/Runner.java
+ com.austin.parking.Runner
+>>>>>>> origin/master
 com/austin/ShopTest/ShoppingTester.java
  com.austin.ShopTest.ShoppingTester
 com/austin/ShopTest/BuyOneGetOneShopItem.java
  com.austin.ShopTest.BuyOneGetOneShopItem
+<<<<<<< HEAD
 com/austin/ticket/Station.java
  com.austin.ticket.Station
+=======
+com/austin/ticket/StudentTicket.java
+ com.austin.ticket.StudentTicket
+com/austin/ticket/Station.java
+ com.austin.ticket.Station
+com/austin/Sales/MyInterface.java
+ com.austin.Sales.MyInterface
+com/austin/Score/Printable.java
+ com.austin.Score.Printable
+>>>>>>> origin/master
 com/austin/Hello.java
  com.austin.Hello
 com/austin/Score/GraduateStudent.java
  com.austin.Score.GraduateStudent
+<<<<<<< HEAD
 com/austin/ticket/Tester.java
  com.austin.ticket.Tester
+=======
+com/austin/ui/GuessFrame.java
+ com.austin.ui.GuessFrame
+ com.austin.ui.GuessFrame$1
+>>>>>>> origin/master
